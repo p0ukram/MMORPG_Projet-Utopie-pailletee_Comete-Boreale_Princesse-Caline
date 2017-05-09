@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142},
-{"id":2,"expanded":false,"name":"Départ","order":3,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":true,"name":"Village Départ","order":2,"parentId":0,"scrollX":1216,"scrollY":1708}
+{"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":false,"name":"Départ","order":3,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Village Départ","order":2,"parentId":0,"scrollX":1170,"scrollY":1007}
 ]
