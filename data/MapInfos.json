@@ -1,6 +1,7 @@
 [
 null,
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142},
 {"id":2,"expanded":false,"name":"Départ","order":3,"parentId":3,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":3,"expanded":true,"name":"Village Départ","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1521.3333333333333}
@@ -8,5 +9,15 @@ null,
 {"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":817,"scrollY":461},
 {"id":2,"expanded":false,"name":"Départ","order":3,"parentId":3,"scrollX":817,"scrollY":461},
 {"id":3,"expanded":true,"name":"Village Départ","order":2,"parentId":0,"scrollX":1216,"scrollY":1708}
+>>>>>>> origin/Dev-décor
+=======
+{"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":817,"scrollY":461},
+{"id":2,"expanded":false,"name":"Départ","order":3,"parentId":3,"scrollX":817,"scrollY":461},
+{"id":3,"expanded":true,"name":"Village Départ","order":2,"parentId":0,"scrollX":1216,"scrollY":1708}
+=======
+{"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":false,"name":"Départ","order":3,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Village Départ","order":2,"parentId":0,"scrollX":1170,"scrollY":1007}
+>>>>>>> parent of 60cf18f... Revert "Test Changement"
 >>>>>>> origin/Dev-décor
 ]
