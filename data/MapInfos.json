@@ -2,12 +2,13 @@
 null,
 {"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":817,"scrollY":461},
 {"id":2,"expanded":false,"name":"Maison Départ","order":3,"parentId":3,"scrollX":817,"scrollY":461},
-{"id":3,"expanded":true,"name":"Village","order":2,"parentId":0,"scrollX":1386.8571428571427,"scrollY":1609.7142857142856},
+{"id":3,"expanded":true,"name":"Village","order":2,"parentId":0,"scrollX":1241,"scrollY":1310},
 {"id":4,"expanded":true,"name":"Maison 1","order":4,"parentId":3,"scrollX":817,"scrollY":461},
-{"id":5,"expanded":false,"name":"Maison 2","order":6,"parentId":3,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
-{"id":6,"expanded":false,"name":"Maison 3","order":7,"parentId":3,"scrollX":817,"scrollY":461},
-{"id":7,"expanded":true,"name":"Taverne","order":8,"parentId":3,"scrollX":817,"scrollY":461},
-{"id":8,"expanded":false,"name":"Maison 4","order":9,"parentId":7,"scrollX":1400.5714285714284,"scrollY":790.2857142857142},
+{"id":5,"expanded":true,"name":"Maison 2","order":6,"parentId":3,"scrollX":817,"scrollY":461},
+{"id":6,"expanded":false,"name":"Maison 3","order":8,"parentId":3,"scrollX":817,"scrollY":461},
+{"id":7,"expanded":true,"name":"Taverne","order":9,"parentId":3,"scrollX":817,"scrollY":461},
+{"id":8,"expanded":false,"name":"2e étage","order":10,"parentId":7,"scrollX":817,"scrollY":461},
 {"id":9,"expanded":true,"name":"2e étage","order":5,"parentId":4,"scrollX":817,"scrollY":461},
-{"id":10,"expanded":false,"name":"Grande Maison","order":10,"parentId":3,"scrollX":1400.5714285714284,"scrollY":790.2857142857142}
+{"id":10,"expanded":false,"name":"Grande Maison","order":11,"parentId":3,"scrollX":817,"scrollY":461},
+{"id":11,"expanded":false,"name":"2e étage","order":7,"parentId":5,"scrollX":817,"scrollY":461}
 ]
