@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Start","order":1,"parentId":0,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
 {"id":2,"expanded":false,"name":"Maison Départ","order":3,"parentId":3,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
-{"id":3,"expanded":true,"name":"Village","order":2,"parentId":0,"scrollX":838.2222222222222,"scrollY":1896},
+{"id":3,"expanded":false,"name":"Village","order":2,"parentId":0,"scrollX":1765.0909090909092,"scrollY":1315.6363636363637},
 {"id":4,"expanded":true,"name":"Maison 1","order":4,"parentId":3,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
 {"id":5,"expanded":true,"name":"Maison 2","order":6,"parentId":3,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
 {"id":6,"expanded":false,"name":"Maison 3","order":8,"parentId":3,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
@@ -12,5 +12,7 @@ null,
 {"id":10,"expanded":true,"name":"Grande Maison","order":11,"parentId":3,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
 {"id":11,"expanded":false,"name":"2e étage","order":7,"parentId":5,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
 {"id":12,"expanded":false,"name":"2e étage","order":12,"parentId":10,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
-{"id":13,"expanded":false,"name":"Tour","order":13,"parentId":10,"scrollX":726.2222222222222,"scrollY":409.77777777777777}
+{"id":13,"expanded":false,"name":"Tour","order":13,"parentId":10,"scrollX":726.2222222222222,"scrollY":409.77777777777777},
+{"id":14,"expanded":false,"name":"Forêt","order":14,"parentId":0,"scrollX":2380,"scrollY":604},
+{"id":15,"expanded":false,"name":"Forêt (test 2e mapping)","order":15,"parentId":0,"scrollX":3565.090909090909,"scrollY":2011.6363636363637}
 ]
